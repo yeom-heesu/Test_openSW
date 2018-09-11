@@ -1,3 +1,8 @@
 # Test_openSW
 # Test
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
