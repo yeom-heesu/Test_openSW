@@ -10,3 +10,4 @@
 | zebra stripes | are neat      |    $1 |
 
 
+[athityakumar/colorls](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
